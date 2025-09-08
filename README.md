@@ -23,3 +23,11 @@ Take control of your spaceship, dodge waves of enemies, and blast them with lase
 - Written in **Lua**  
 - Powered by **LÖVE 2D**  
 - Assets: custom sprites, sounds, and animations  
+
+## 🚀 How to Run (Local)
+1. Make sure you have [LÖVE 2D](https://love2d.org/) installed  
+   👉 Download the macOS version since this project was built on Mac.
+2. Open a terminal in the project folder.
+3. Run:
+   ```bash
+   love .
